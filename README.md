@@ -1,1 +1,1 @@
-# web-sockets
+web sockets practice using react and tsc
